@@ -1,0 +1,2 @@
+
+#deck:import_verbs "Konjunktiv I Präsens" OR "Imperativ Präsens" OR "Indikativ Futur I" OR "Indikativ Präteritum" OR "Indikativ Präsens" OR "Indikativ Perfekt"import requests
